@@ -1,0 +1,19 @@
+{
+    "buy_plan": "Plan not found please buy oneee",
+    "start_convo": "You are all set you can now start conversation /ask hello",
+    "avail_plan": "Available Plans:",
+    "plan_limit": "Plan Limits:",
+    "price": "Price:",
+    "free": "Free",
+    "des": "Description:",
+    "ad": "Ad:",
+    "yes": "Yess",
+    "no": "NO",
+    "dalle": "Dall-E:",
+    "rem_n_msg": "Reminder Ad Message:",
+    "buy": "*Buy*:",
+    "plan_expire": "Your plan is about to expire and there is no free plan available please buy from thes.",
+    "plan_auto_update": "Hello you can start the conversation now your free plan was automatically updated however you can checkout premium plans as well.",
+    "complete_task": "Please complete the task first or upgrade your plan:- ",
+    "ad_msg": "*AD:* click on the link:- "
+}
